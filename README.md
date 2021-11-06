@@ -2,8 +2,8 @@
 ## *** COMING UP ***
 
 Matemática:
-Derivadas --> apreender o conceito variação e o infinitésimo 
+- Derivadas: Conceito de primeira e segunda derivada
 
 
-Física: 
-Forças de ligação --> pêndulo gravítico simples + força de reação normal
+Física:
+- Forças de ligação: tensão e reação normal
