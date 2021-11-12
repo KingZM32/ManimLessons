@@ -1,6 +1,7 @@
 from manim import *
 import numpy as np
 
+# Probably will dump this one, maybe keep it as a walkthrough
 # A insistir --> a derivada é uma taxa de variação infinitesimal de uma dada função f
 # COMPREENDER O INFINITÉSIMO!!!
 
