@@ -50,7 +50,7 @@ def get_secant_and_lines(
     xl2 = MathTex(f"{dxvar}").next_to(vline2.get_start(), DOWN) if vline2.get_start()[1] == 0 else MathTex(f"{dxvar}").next_to(vline2.get_end(), DOWN)
 
     # Default slope lenght and secant line to plot
-    # TODO: Where's the bridge to get sort out the length of the secant lines?
+    # TODO: Relate <--> input lenght & secant line
     
 
     return result
